@@ -1,0 +1,5 @@
+json{
+  "functions": {
+    "api/handler.js": { "maxDuration": 30 }
+  }
+}
